@@ -1,5 +1,5 @@
 Project Title*:
-nikhilstyles
+styles
 
 Problem Statement/Opportunity*:
 To create a web application for the customers to use online application to get the information clothes and many more items for life style through chat facility.
